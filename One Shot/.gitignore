@@ -58,3 +58,7 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+# Project generated files
+/oneshot_BackUpThisFolder_ButDontShipItWithYourGame/
+/oneshot_BurstDebugInformation_DoNotShip/
+
